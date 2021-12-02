@@ -33,6 +33,8 @@ They seem like reasonable results since they are common words that I would hear 
 
 ## PART 2. Generate models to predict if a lyrics would be "trendy," aka include the top 10 keywords
 
+import: fasttext
+
 Train with the "trendy song" data and test if other songs also follow the trend. 
 - Also used lyrics-data.csv from https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres/version/3?select=lyrics-data.csv
 - Using the "trendy song" data from part 1, I labelled lyrics from lyrics-data.csv and billboard_lyrics_1964-2015.csv with 1 or 0. 
