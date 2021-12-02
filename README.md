@@ -36,7 +36,7 @@ They seem like reasonable results since they are common words that I would hear 
 import: fasttext
 
 Train with the "trendy song" data and test if other songs also follow the trend. 
-- Also used lyrics-data.csv from https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres/version/3?select=lyrics-data.csv
+- Also used lyrics-data.csv from https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres/version/3?select=lyrics-data.csv (NOT uploaded here bc the file is too big)
 - Using the "trendy song" data from part 1, I labelled lyrics from lyrics-data.csv and billboard_lyrics_1964-2015.csv with 1 or 0. 
 -   Label is 1 if it contains at least 3 top 10 keywords. Else, label is 0.
 -     They look like: __label__0 or __label__1
