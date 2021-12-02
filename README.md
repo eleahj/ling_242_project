@@ -1,4 +1,4 @@
-# Linguistic Analysis on Song Lyrics (Ling 242 Project)
+# Linguistic Analysis on Song Lyrics (Ling 242 Project - Leah J.)
 lingAnalysisProjFinal.ipynb contains my detailed procedure for building this project. 
 
 ## PART 1. Use WordCloud to analyze Song Lyrics of Billboard Year-End Hot 100 (1965-2015) 
